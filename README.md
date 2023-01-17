@@ -14,9 +14,9 @@ Our job portal website is a modern and efficient platform, built using the lates
 
 ## Tech Stack
 
-**Client:** React, Redux,Bootstrap
+**Client:** React, Redux,Bootstrap,MUI
 
-**Server:** Node, Express,mongoDb
+**Server:** Node, Express,mongoDb,JWT,Nodemailer
 
 ## images
 
