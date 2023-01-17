@@ -18,17 +18,16 @@ Our job portal website is a modern and efficient platform, built using the lates
 
 **Server:** Node, Express,mongoDb
 
+## images
+
+![Screenshot (160)](https://user-images.githubusercontent.com/56558153/213000147-0bf84524-1425-4e82-9235-48681dbb5e0e.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/56558153/213000191-d78479ac-f6e2-4d27-94a4-fba0622a4fb6.png)
 
 ## Feedback
 
 If you have any feedback, please reach out to us at linkedin.
 
 
-## images
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
